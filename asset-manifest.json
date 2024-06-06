@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/face-recog-project/static/css/main.6fd3d00a.css",
+    "main.js": "/face-recog-project/static/js/main.c6f99804.js",
+    "static/js/453.eba01dcc.chunk.js": "/face-recog-project/static/js/453.eba01dcc.chunk.js",
+    "index.html": "/face-recog-project/index.html",
+    "main.6fd3d00a.css.map": "/face-recog-project/static/css/main.6fd3d00a.css.map",
+    "main.c6f99804.js.map": "/face-recog-project/static/js/main.c6f99804.js.map",
+    "453.eba01dcc.chunk.js.map": "/face-recog-project/static/js/453.eba01dcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd3d00a.css",
+    "static/js/main.c6f99804.js"
+  ]
+}
