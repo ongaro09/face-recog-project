@@ -1,0 +1,90 @@
+# Node modules and logs
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+venv/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Flask settings
+instance/
+*.sqlite3
+*.db
+.pytest_cache/
+.coverage
+.cache
+celerybeat-schedule
+config.py
+
+# Django specific
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# Build directories
+build/
+dist/
+*.egg-info
+
+# Coverage
+.coverage
+.coverage.*
+
+# Static files and media
+/static/uploads/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
+
+# React build files
+frontend/build/
+
+# Ignoring node modules and npm logs
+frontend/node_modules
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Ignoring local environment variables and package locks
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+frontend/.pnp
+frontend/.pnp.js
+frontend/pnpjs
+frontend/package-lock.json
+frontend/yarn.lock
+
+# Ignoring IDE specific files
+frontend/.idea
+frontend/.vscode
