@@ -24,7 +24,7 @@ const LandingPage = () => {
           </Link>
         </div>
         <div className="hero-image">
-          <img src="/facial-recog.jpg" alt="Face Recognition" />
+          <img src={`${process.env.PUBLIC_URL}/facial-recog.jpg`} alt="Face Recognition" />
         </div>
       </section>
 
